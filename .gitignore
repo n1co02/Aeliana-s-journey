@@ -72,5 +72,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 
-/src
-/videos
+/src/Assets/UnityAssetStoreExports
+/src/Assets/Images
+/src/Assets/Materials
+.vsconfig
+.DS_Store
+
