@@ -81,7 +81,12 @@ crashlytics-build.properties
 /Assets/UnityAssetStoreExports/Sci-Fi CultistPack
 /Assets/UnityAssetStoreExports/SunnyLand House Props Expansion Pack
 /Assets/UnityAssetStoreExports/TextMesh Pro
-/Assets/UnityAssetStoreExports/Wizard - 2D Character
+
+
+
+/Assets/UnityAssetStoreExports/Wizard - 2D Character/Animations
+/Assets/UnityAssetStoreExports/Wizard - 2D Character/Demo
+/Assets/UnityAssetStoreExports/Wizard - 2D Character/Sprites
 .vsconfig
 .DS_Store
 
