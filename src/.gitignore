@@ -77,7 +77,6 @@ crashlytics-build.properties
 /Assets/Materials/GridMaterial/Cultists
 /Assets/Materials/GridMaterial/Heart
 /Assets/Materials/GridMaterial/Tiles2
-/Assets/Materials/GridMaterial/Tiles3/*.asset.meta
 
 /Assets/UnityAssetStoreExports 
 .vsconfig
