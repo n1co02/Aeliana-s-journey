@@ -76,7 +76,6 @@ crashlytics-build.properties
 /Assets/Images
 
 /Assets/Materials
-/Assets/Scenes
 /Assets/UnityAssetStoreExports 
 .vsconfig
 .DS_Store
