@@ -78,7 +78,6 @@ crashlytics-build.properties
 /Assets/Materials/GridMaterial/Heart
 /Assets/Materials/GridMaterial/Tiles2
 /Assets/Materials/GridMaterial/Tiles3
-/Assets/Materials/GridMaterial/Village2/*.asset.meta
 
 /Assets/UnityAssetStoreExports 
 .vsconfig
