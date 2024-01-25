@@ -74,9 +74,7 @@ crashlytics-build.properties
 
 
 /Assets/Images
-/Assets/Sprites
-/Assets/Sounds
-Assets/Scripts
+
 /Assets/Materials
 /Assets/Scenes
 /Assets/UnityAssetStoreExports 
