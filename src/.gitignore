@@ -70,11 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
 /Assets/UnityAssetStoreExports/2D Pixel Item Pack
 /Assets/UnityAssetStoreExports/Cainos
 /Assets/UnityAssetStoreExports/PlayerPrefsEditor
 /Assets/UnityAssetStoreExports/Sci-Fi CultistPack
-/Assets/UnityAssetStoreExports/SunnyLand House Props Expansion Pack
+#/Assets/UnityAssetStoreExports/SunnyLand House Props Expansion Pack
 
 
 
