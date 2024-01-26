@@ -70,19 +70,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-
-
-
-
 /Assets/UnityAssetStoreExports/2D Pixel Item Pack
-/Assets/UnityAssetStoreExports/Cainos 
+/Assets/UnityAssetStoreExports/Cainos
 /Assets/UnityAssetStoreExports/PlayerPrefsEditor
 /Assets/UnityAssetStoreExports/Sci-Fi CultistPack
 /Assets/UnityAssetStoreExports/SunnyLand House Props Expansion Pack
-/Assets/UnityAssetStoreExports/TextMesh Pro
 
-
+#text mesh pro
+/Assets/UnityAssetStoreExports/TextMesh Pro/Documentation 
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras 
+/Assets/UnityAssetStoreExports/TextMesh Pro/Fonts
+/Assets/UnityAssetStoreExports/TextMesh Pro/Resources
+/Assets/UnityAssetStoreExports/TextMesh Pro/Shaders
+/Assets/UnityAssetStoreExports/TextMesh Pro/Sprites
 
 .vsconfig
 .DS_Store
