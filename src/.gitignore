@@ -73,7 +73,9 @@ crashlytics-build.properties
 
 
 
-/Assets/UnityAssetStoreExports/2D Pixel Item Pack
+/Assets/UnityAssetStoreExports/2D Pixel Item Pack/Heavy Outline/*.png
+/Assets/UnityAssetStoreExports/2D Pixel Item Pack/Heavy Outline/*.png.meta
+
 #/Assets/UnityAssetStoreExports/Cainos/Common
 
 
