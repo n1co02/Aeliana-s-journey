@@ -78,7 +78,17 @@ crashlytics-build.properties
 
 #text mesh pro
 /Assets/UnityAssetStoreExports/TextMesh Pro/Documentation 
-/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras 
+
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Materials
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Fonts/
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Prefabs/
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Resources/
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Scenes
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Scripts
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Sprites
+/Assets/UnityAssetStoreExports/TextMesh Pro/Examples & Extras/Textures
+
+
 
 .vsconfig
 .DS_Store
