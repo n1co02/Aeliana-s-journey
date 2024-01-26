@@ -1,0 +1,10 @@
+To run the Mac.app file:
+
+1. run chmod on the parent directory or the file itself: 
+
+- chmod -R +x <app name>.app/Contents/MacOS
+
+2. Make sure the Mac isnt blocking the execution (Security & Privacy Settings)
+
+3. Double-click the <app name>.app File
+	-> now it should be running
